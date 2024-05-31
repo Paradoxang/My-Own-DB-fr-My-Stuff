@@ -57,3 +57,5 @@ class ConexionDB:
             print(f"Documento con ID '{doc_id}' eliminado de la base de datos '{db_name}'.")
         else:
             print(f"Documento con ID '{doc_id}' no encontrado en la base de datos '{db_name}'.")
+
+#2

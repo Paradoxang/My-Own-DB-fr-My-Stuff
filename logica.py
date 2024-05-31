@@ -27,3 +27,4 @@ def mostrar_menu():
     print("3. Actualizar documento")
     print("4. Eliminar documento")
     print("5. Salir")
+#3
